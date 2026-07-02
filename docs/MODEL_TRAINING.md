@@ -241,3 +241,8 @@ A custom LoRA was successfully trained using the Ostris AI Toolkit on top of the
 The model was trained until the **1500-step checkpoint**, evaluated using ComfyUI, and the selected checkpoint was exported as a `.safetensors` file for deployment and inference.
 
 This trained LoRA serves as the core AI component of the Purse-pective virtual handbag try-on system.
+
+
+### 🤗 Model Weights
+
+https://huggingface.co/sanu1408/purse-pective-lora
