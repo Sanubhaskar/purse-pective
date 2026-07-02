@@ -274,3 +274,7 @@ A paired dataset was constructed by combining:
 The resulting dataset provides aligned Product, Model, and Result image triplets suitable for training a virtual handbag try-on model.
 
 The entire dataset creation process focused on maintaining visual consistency between samples while ensuring high image quality and accurate pairing.
+
+### 🤗 Dataset
+
+https://huggingface.co/datasets/sanu1408/purse-pective-dataset
